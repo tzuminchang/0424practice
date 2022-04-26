@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../0415/FrontEnd-Course-Demo-main"
+    },
+    {
+      "path": "../../../網頁/個人cv/個人作業"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "0424 practice"
+  }
+}
